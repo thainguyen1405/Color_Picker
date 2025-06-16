@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thainguyen1405/Color_Picker.git/static/css/main.a650d82b.css",
-    "main.js": "/thainguyen1405/Color_Picker.git/static/js/main.e7416f78.js",
-    "static/js/453.95e2e103.chunk.js": "/thainguyen1405/Color_Picker.git/static/js/453.95e2e103.chunk.js",
-    "index.html": "/thainguyen1405/Color_Picker.git/index.html",
-    "main.a650d82b.css.map": "/thainguyen1405/Color_Picker.git/static/css/main.a650d82b.css.map",
-    "main.e7416f78.js.map": "/thainguyen1405/Color_Picker.git/static/js/main.e7416f78.js.map",
-    "453.95e2e103.chunk.js.map": "/thainguyen1405/Color_Picker.git/static/js/453.95e2e103.chunk.js.map"
+    "main.css": "/Color_Picker/static/css/main.a650d82b.css",
+    "main.js": "/Color_Picker/static/js/main.5ad5ada2.js",
+    "static/js/453.95e2e103.chunk.js": "/Color_Picker/static/js/453.95e2e103.chunk.js",
+    "index.html": "/Color_Picker/index.html",
+    "main.a650d82b.css.map": "/Color_Picker/static/css/main.a650d82b.css.map",
+    "main.5ad5ada2.js.map": "/Color_Picker/static/js/main.5ad5ada2.js.map",
+    "453.95e2e103.chunk.js.map": "/Color_Picker/static/js/453.95e2e103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a650d82b.css",
-    "static/js/main.e7416f78.js"
+    "static/js/main.5ad5ada2.js"
   ]
 }
